@@ -6,9 +6,9 @@ namespace FirstNetCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("SAUBHAGYA ASSHIH!");
-            Console.WriteLine(DateTime.Now.Tostring());
-            
+            Console.WriteLine("SAUBHAGYA ASHIH!");
+            Console.WriteLine("My Name Is Saubhagya AShish");
+
         }
     }
 }
