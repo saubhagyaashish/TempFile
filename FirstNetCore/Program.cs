@@ -6,7 +6,9 @@ namespace FirstNetCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("SAUBHAGYA ASSHIH!");
+            Console.WriteLine(DateTime.Now.Tostring());
+            
         }
     }
 }
